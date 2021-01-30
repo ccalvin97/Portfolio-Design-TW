@@ -3,7 +3,7 @@
 Trading Robot with reinforcement learning    
 
 <div align="center">
-<img src="https://github.com/ccalvin97/Portfolio-Design-TW/blob/master/RL/graph/Full_UML.png" width="700" alt= "Reinforcement Learning" />
+<img src="https://github.com/ccalvin97/Portfolio-Design-TW/blob/main/RL/graph/Full_UML.png" width="700" alt= "Reinforcement Learning" />
 </div>
 
 
