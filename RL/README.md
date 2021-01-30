@@ -58,17 +58,17 @@ Company Description:
 
     
 <div align="center">
-<img src="https://github.com/ccalvin97/Portfolio-Design-TW/blob/master/RL/graph/training_plot.png" width="800" alt= "Training Result" />
+<img src="https://github.com/ccalvin97/Portfolio-Design-TW/blob/main/RL/graph/training_plot.png" width="800" alt= "Training Result" />
 </div>
 
      
 <div align="center">
-<img src="https://github.com/ccalvin97/Portfolio-Design-TW/blob/master/RL/graph/plt__signal.png" width="800" alt= "Sell/Buy Signal" />
+<img src="https://github.com/ccalvin97/Portfolio-Design-TW/blob/main/RL/graph/plt__signal.png" width="800" alt= "Sell/Buy Signal" />
 </div>
 
       
 <div align="center">
-<img src="https://github.com/ccalvin97/Portfolio-Design-TW/blob/master/RL/graph/plt__absolute_profit.png" width="800" alt= "Absolute Profit" />
+<img src="https://github.com/ccalvin97/Portfolio-Design-TW/blob/main/RL/graph/plt__absolute_profit.png" width="800" alt= "Absolute Profit" />
 </div>
 
 ## Contributing  
