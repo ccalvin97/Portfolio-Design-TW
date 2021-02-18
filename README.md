@@ -7,3 +7,6 @@ Open Source Project List:
 3. Price Prediction - LSTM, Seq2Seq and Multi-head Attention    
 4. Stock Crawler - 100% Automation in TW Stock, US Stock, Worldwide Stock Index  
 5. Feature Selection - Automated Data Cleaning, Automated Feature Engineering  
+
+
+Contribution from Kaun Ying He kuancalvin2016@gmail.com
