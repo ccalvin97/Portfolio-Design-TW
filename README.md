@@ -9,4 +9,4 @@ Open Source Project List:
 5. Feature Selection - Automated Data Cleaning, Automated Feature Engineering  
 
 
-Contribution from Kaun Ying He kuancalvin2016@gmail.com
+Contribution from Kuan Ying He kuancalvin2016@gmail.com
