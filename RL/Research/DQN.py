@@ -40,7 +40,9 @@ class DQN:
         self.env = gym.make('CartPole-v0')
 
     def build_model(self):
-        """基本网络结构.
+        """ 
+        NN 輸入為env
+        NN 輸出為在這一個env之下, 預期到整個journey結束的reward
         """
         inputs = Input(shape=(4,))
         x = Dense(16, activation='relu')(inputs)
