@@ -39,7 +39,7 @@ class DQN:
 
         self.env = gym.make('CartPole-v0')
 
-    def build_model(self):
+    def build_model(self):  ## 此即為DQN NN, Target NN也是這個只是Target NN 只有某些特定時間才更新
         """ 
         NN 輸入為env
         NN 輸出為在這一個env之下, 預期到整個journey結束的reward
@@ -92,7 +92,8 @@ class DQN:
         if self.epsilon >= self.epsilon_min:
             self.epsilon *= self.epsilon_decay
 
-    def process_batch(self, batch):
+    def process_batch(self, batch):  ## DQN NN 的 training data 為 states, label 為 r + gamma * Q target(s’,a’,w) 
+
         """batch数据处理
 
         Arguments:
